@@ -1,2 +1,2 @@
 # langageC
-test readme
+Petite application du jeu du pendu en console
